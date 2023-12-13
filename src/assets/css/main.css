@@ -1,0 +1,14 @@
+/**
+ * src/assets/css/main.css
+ *
+ * @format
+ */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Font Awesome Icons*/
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+/* Your additional global styles here */
